@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "year": "2026",
   "source": "Ministry of Public Administration, Bangladesh. Gazette dated 09 November 2025 (24 Kartik 1432).",
   "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -41,7 +41,7 @@
       "id": "bd_2026_004",
       "name": "Independence and National Day",
       "namebn": "স্বাধীনতা ও জাতীয় দিবস",
-      "startDate": "2026-03-28",
+      "startDate": "2026-03-26",
       "gazetteType": "mandatoryGeneral",
       "category": "national",
       "description": "Commemorates Bangladesh's declaration of independence on March 26, 1971",
