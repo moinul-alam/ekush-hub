@@ -4,7 +4,6 @@
   "source": "Ministry of Public Administration, Bangladesh. Gazette dated 09 November 2025 (24 Kartik 1432).",
   "generatedAt": "2026-01-01T00:00:00.000Z",
   "holidays": [
-
     {
       "id": "bd_2026_001",
       "name": "Martyr Day & International Mother Language Day",
@@ -42,7 +41,7 @@
       "id": "bd_2026_004",
       "name": "Independence and National Day",
       "namebn": "স্বাধীনতা ও জাতীয় দিবস",
-      "startDate": "2026-03-26",
+      "startDate": "2026-03-28",
       "gazetteType": "mandatoryGeneral",
       "category": "national",
       "description": "Commemorates Bangladesh's declaration of independence on March 26, 1971",
@@ -162,7 +161,6 @@
       "descriptionbn": "যিশু খ্রিস্টের জন্মদিন উপলক্ষে খ্রিস্টান ধর্মাবলম্বীদের উৎসব",
       "isApproximate": false
     },
-
     {
       "id": "bd_2026_015",
       "name": "Shab-e-Barat",
@@ -243,7 +241,6 @@
       "descriptionbn": "মহানবমী, বিজয়া দশমীর আগের দিন",
       "isApproximate": false
     },
-
     {
       "id": "bd_2026_022",
       "name": "Shab-e-Miraj",
@@ -299,7 +296,6 @@
       "descriptionbn": "হযরত আবদুল কাদের জিলানী (রহ.)-এর ওফাত দিবস, রবিউস সানির ১১ তারিখ",
       "isApproximate": true
     },
-
     {
       "id": "bd_2026_027",
       "name": "Shri Shri Saraswati Puja",
@@ -389,7 +385,6 @@
       "descriptionbn": "দেবী কালীর পূজা (শ্যামাপূজা / দীপাবলি)",
       "isApproximate": false
     },
-
     {
       "id": "bd_2026_035",
       "name": "English New Year",
@@ -468,7 +463,6 @@
       "descriptionbn": "বড়দিনের পূর্বের ও পরের দিন",
       "isApproximate": false
     },
-
     {
       "id": "bd_2026_042",
       "name": "Maghi Purnima",
@@ -536,7 +530,6 @@
       "descriptionbn": "বৌদ্ধ বর্ষাবাসের সমাপ্তি, আশ্বিন পূর্ণিমা",
       "isApproximate": true
     },
-
     {
       "id": "bd_2026_048",
       "name": "Boisabi / Sangrain / Bizu (Hill Tracts)",
