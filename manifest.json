@@ -1,6 +1,6 @@
 {
-  "manifestVersion": 1,
-  "lastUpdated": "2026-03-26",
+  "manifestVersion": 2,
+  "lastUpdated": "2026-04-02",
   "baseUrl": "https://hub.ekushlabs.com",
   "datasets": {
     "holidays": {
