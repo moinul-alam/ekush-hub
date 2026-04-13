@@ -1,7 +1,7 @@
 {
   "manifestVersion": 2,
   "lastUpdated": "2026-04-02",
-  "baseUrl": "https://hub.ekushlabs.com",
+  "baseUrl": "https://hub.ekushlabs.com/ponji",
   "datasets": {
     "holidays": {
       "version": 1,
