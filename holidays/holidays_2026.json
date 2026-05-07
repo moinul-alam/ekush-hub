@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "year": "2026",
   "source": "Ministry of Public Administration, Bangladesh. Gazette dated 09 November 2025 (24 Kartik 1432).",
   "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -210,7 +210,7 @@
       "id": "bd_2026_019",
       "name": "Eid ul-Adha (Extended)",
       "namebn": "ঈদ-উল-আজহা (ঈদের পূর্বের ০২ দিন ও পরের ০৩ দিন)",
-      "startDate": "2026-05-26",
+      "startDate": "2026-05-25",
       "endDate": "2026-05-31",
       "generalHolidayDate": "2026-05-28",
       "gazetteType": "mandatoryExecutive",
