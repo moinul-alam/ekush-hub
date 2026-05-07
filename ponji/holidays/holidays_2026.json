@@ -209,14 +209,14 @@
     {
       "id": "bd_2026_019",
       "name": "Eid ul-Adha (Extended)",
-      "namebn": "ঈদ-উল-আজহা (ঈদের পূর্বের ০২ দিন ও পরের ০৩ দিন)",
-      "startDate": "2026-05-26",
+      "namebn": "ঈদ-উল-আজহা (ঈদের পূর্বের ০৩ দিন ও পরের ০৩ দিন)",
+      "startDate": "2026-05-25",
       "endDate": "2026-05-31",
       "generalHolidayDate": "2026-05-28",
       "gazetteType": "mandatoryExecutive",
       "category": "islamic",
-      "description": "Executive holidays: 2 days before Eid ul-Adha (26–27 May) and 3 days after (29–31 May). General holiday is 28 May.",
-      "descriptionbn": "ঈদ-উল-আজহার পূর্বের ০২ দিন (২৬–২৭ মে) ও পরের ০৩ দিন (২৯–৩১ মে) নির্বাহী ছুটি। সাধারণ ছুটি ২৮ মে।",
+      "description": "Executive holidays: 3 days before Eid ul-Adha (26–27 May) and 3 days after (29–31 May). General holiday is 28 May.",
+      "descriptionbn": "ঈদ-উল-আজহার পূর্বের ০৩ দিন (২৫–২৭ মে) ও পরের ০৩ দিন (২৯–৩১ মে) নির্বাহী ছুটি। সাধারণ ছুটি ২৮ মে।",
       "isApproximate": true
     },
     {
