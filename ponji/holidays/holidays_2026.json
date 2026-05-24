@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "year": "2026",
   "source": "Ministry of Public Administration, Bangladesh. Gazette dated 09 November 2025 (24 Kartik 1432).",
   "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -185,8 +185,8 @@
     },
     {
       "id": "bd_2026_017",
-      "name": "Eid ul-Fitr (Extended)",
-      "namebn": "ঈদ-উল-ফিতর (ঈদের পূর্বের ০৩ দিন ও পরের ০২ দিন)",
+      "name": "Start of Eid ul-Fitr Holidays (Extended)",
+      "namebn": "ঈদ-উল-ফিতরের ছুটি শুরু (ঈদের পূর্বের ০৩ দিন ও পরের ০২ দিন)",
       "startDate": "2026-03-18",
       "endDate": "2026-03-23",
       "gazetteType": "mandatoryExecutive",
@@ -208,8 +208,8 @@
     },
     {
       "id": "bd_2026_019",
-      "name": "Eid ul-Adha (Extended)",
-      "namebn": "ঈদ-উল-আজহা (ঈদের পূর্বের ০৩ দিন ও পরের ০৩ দিন)",
+      "name": "Start of Eid ul-Adha Holidays (Extended)",
+      "namebn": "ঈদ-উল-আজহার ছুটি শুরু (ঈদের পূর্বের ০৩ দিন ও পরের ০৩ দিন)",
       "startDate": "2026-05-25",
       "endDate": "2026-05-31",
       "generalHolidayDate": "2026-05-28",
@@ -254,8 +254,8 @@
     },
     {
       "id": "bd_2026_023",
-      "name": "Eid ul-Fitr (3rd day after)",
-      "namebn": "ঈদ-উল-ফিতর (ঈদের পরের তৃতীয় দিন)",
+      "name": "3rd day after Eid ul-Fitr",
+      "namebn": "ঈদ-উল-ফিতর পরের তৃতীয় দিন",
       "startDate": "2026-03-24",
       "gazetteType": "optionalMuslim",
       "category": "islamic",
@@ -265,8 +265,8 @@
     },
     {
       "id": "bd_2026_024",
-      "name": "Eid ul-Adha (4th day after)",
-      "namebn": "ঈদ-উল-আজহা (ঈদের পরের চতুর্থ দিন)",
+      "name": "4th day after Eid ul-Adha",
+      "namebn": "ঈদ-উল-আজহা পরের চতুর্থ দিন ",
       "startDate": "2026-06-01",
       "gazetteType": "optionalMuslim",
       "category": "islamic",
@@ -353,8 +353,8 @@
     },
     {
       "id": "bd_2026_032",
-      "name": "Shri Shri Durga Puja (Saptami & Ashtami)",
-      "namebn": "শ্রী শ্রী দুর্গাপূজা (সপ্তমী ও অষ্টমী)",
+      "name": "Saptami & Ashtami of Shri Shri Durga Puja",
+      "namebn": "শ্রী শ্রী দুর্গাপূজার সপ্তমী ও অষ্টমী)",
       "startDate": "2026-10-18",
       "endDate": "2026-10-19",
       "gazetteType": "optionalHindu",
@@ -453,8 +453,8 @@
     },
     {
       "id": "bd_2026_041",
-      "name": "Christmas (Eve & Day after)",
-      "namebn": "যিশু খ্রিস্টের জন্মোৎসব (বড়দিনের পূর্বের ও পরের দিন)",
+      "name": "Eve & Day after Christmas",
+      "namebn": "যিশু খ্রিস্টের জন্মোৎসবের ছুটি শুরু (বড়দিনের পূর্বের ও পরের দিন)",
       "startDate": "2026-12-24",
       "endDate": "2026-12-26",
       "gazetteType": "optionalChristian",
